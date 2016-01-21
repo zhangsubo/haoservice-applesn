@@ -5,7 +5,7 @@
  * Author：Zsuper-PHP
  * Author URL:http://www.zsuper.xyz http://www.zhangsubo.cn
  *
- * Code URL:https://github.com/zhangsubo/juhe-AppleSN
+ * Code URL:https://github.com/zhangsubo/haoservice-applesn/
  * Version:1.0.2
  * License:MIT
  *
