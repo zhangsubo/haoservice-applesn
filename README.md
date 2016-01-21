@@ -1,0 +1,2 @@
+# haoservice-applesn
+Haoservice是一家数据API提供网站，蓝点FIX项目方要求使用此服务上提供的API接口实现苹果序列号查询功能。
